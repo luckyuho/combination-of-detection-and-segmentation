@@ -1,4 +1,4 @@
-# combination of detection and segmentation
+# Combination of Computer Vision Detection and Segmentation for Autonomous Driving
 
 The following website is my abstract in [ION/IEEE-PLANS](https://www.ion.org/plans/abstracts.cfm?paperID=5895)
 
