@@ -11,6 +11,6 @@ here is our original network structure
 Some instruction shows in [demo.ipynb](https://github.com/luckyuho/combination-of-detection-and-segmentation/blob/master/demo.ipynb)
 and after [PLANS](https://www.ion.org/plans/program.cfm) conference we will provide our source code
 
-Pictures below are our camera input images(left) and predictions(right)
+Pictures below are our camera images(left) and predictions(right)
 where yellow: road, green: people, blue: car
 <img src="https://github.com/luckyuho/combination-of-detection-and-segmentation/blob/master/predictions.png" height="300">
