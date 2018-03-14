@@ -1,4 +1,4 @@
-# combination-of-detection-and-segmentation
+# combination of detection and segmentation
 
 The following website is my abstract in [ION/IEEE-PLANS](https://www.ion.org/plans/abstracts.cfm?paperID=5895)
 
